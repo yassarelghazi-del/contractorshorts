@@ -1,0 +1,6 @@
+{
+  "name": "reelestate",
+  "description": "ai listing-to-reel generator & automated instagram/whatsapp buyer booking system for real estate agents and car dealerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
